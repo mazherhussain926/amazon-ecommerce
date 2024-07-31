@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function CustomInput({placeholder,}) {
+export default function ProfileScreen() {
   return (
     <View>
-      <Text>CustomInput</Text>
+      <Text>ProfileScreen</Text>
     </View>
   )
 }
